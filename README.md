@@ -5,13 +5,13 @@
 - All updates will be shown in this page.
 
 ## Author-Yihua Cheng (程义华)
-- Ph.D candidate of computer science at the Beihang University (Graduate Soon).
+- Ph.D candidate of computer science at the Beihang University (Graduating Soon).
 - B.S. degree of computer science from Beijing University of Posts and Telecommunications, 2017. 
 - Any questions, please email me at yihua_c@buaa.edu.cn.
 
 ## Links of our works.
 
-- Puregaze: Purifying gaze feature for generalizable gaze estimation, AAAI 2022.
+- [Puregaze: Purifying gaze feature for generalizable gaze estimation](https://github.com/yihuacheng/PureGaze), AAAI 2022.
 - A Coarse-to-fine Adaptive Network for Appearance-based Gaze Estimation, AAAI 2020.
 - Gaze estimation by exploring two-eye asymmetry, TIP 2020.
 - [Appearance-Based Gaze Estimation via Evaluation-Guided Asymmetric Regression](https://github.com/yihuacheng/ARE-GazeEstimation), ECCV 2018.
