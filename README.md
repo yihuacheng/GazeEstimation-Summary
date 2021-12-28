@@ -9,7 +9,7 @@
 - B.S. degree of computer science from Beijing University of Posts and Telecommunications, 2017. 
 - Any questions, please email me at yihua_c@buaa.edu.cn.
 
-## Some Demos
+## Gaze Estimation Demo
 [<div align=center><img src="youtube.png" alt="Watch the video" width="800" height="450" align="bottom" /></div>](https://www.youtube.com/watch?v=e0rZ_B4ca7M)  
 
 ## Links of our works.
