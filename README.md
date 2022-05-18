@@ -46,6 +46,9 @@ All listed works use our codes for data processing.
 
 
 ## Updating
+### UPDATE, 05.18-2022
+- GazeTR is accepted by ICPR2022.
+
 ### UPDATE, 12.28-2021
 - Add the video of demo.
 
