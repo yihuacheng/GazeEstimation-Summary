@@ -14,12 +14,13 @@
 
 ## Links of our works.
 
+- [Gaze Estimation using Transformer](https://github.com/yihuacheng/GazeTR), ICPR 2022.
 - [Puregaze: Purifying gaze feature for generalizable gaze estimation](https://github.com/yihuacheng/PureGaze), AAAI 2022.
 - A Coarse-to-fine Adaptive Network for Appearance-based Gaze Estimation, AAAI 2020.
 - Gaze estimation by exploring two-eye asymmetry, TIP 2020.
 - [Appearance-Based Gaze Estimation via Evaluation-Guided Asymmetric Regression](https://github.com/yihuacheng/ARE-GazeEstimation), ECCV 2018.
 - [Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark ](http://phi-ai.buaa.edu.cn/Gazehub/), Under Review.
-- [Gaze Estimation using Transformer](https://github.com/yihuacheng/GazeTR), Under Review.
+
 
 ## Links of our implemented works.
 
